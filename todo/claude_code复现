@@ -1,0 +1,9 @@
+# cluade code 复现
+
+- 知乎问题：Anthropic的Claude Code Agent效果很好，有没有人深入分析其技术原理？
+  - [answer](https://www.zhihu.com/question/1920949805166858531/answer/1926373954517444345)
+  - 国外大佬整理的内容[link](https://southbridge-research.notion.site/claude-code-an-agentic-cleanroom-analysis)
+  - [minxx的抓包分析](https://minusx.ai/blog/decoding-claude-code/#appendix)
+ 
+- 知乎问题：为什么Claude的代码能力会这么强
+  - [answer](https://www.zhihu.com/question/1914086301076029991/answer/1951779221312627388)
