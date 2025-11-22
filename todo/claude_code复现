@@ -7,3 +7,7 @@
  
 - 知乎问题：为什么Claude的代码能力会这么强
   - [answer](https://www.zhihu.com/question/1914086301076029991/answer/1951779221312627388)
+- claude 复现代码仓
+  - share AI LAB： kodecli （ts版本）
+  - https://github.com/shenzhongchao/dive-into-claude-code/ ： python版本   
+  - 提示词复现 ：https://github.com/shareAI-lab/analysis_claude_code/  和 https://github.com/Yuyz0112/claude-code-reverse
