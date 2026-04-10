@@ -17,8 +17,11 @@
 
 
 
-# LLM RL 汇总
+# LLM RL 汇总 强化学习
+
 - [Part 22：Agentic RL六问，是什么、怎么做？ >>RL & LLM推理108问系列](https://zhuanlan.zhihu.com/p/1963923092469453003)
+
+- [看完能和外婆解释的PPO, DPO, GRPO强化学习](https://zhuanlan.zhihu.com/p/1984387073625593089)
 
 ## LLM 从0 实现 入门级文章
 
@@ -36,6 +39,9 @@
 - [大量面经 ](https://www.zhihu.com/people/90-64-77-65)
 	- [字节大模型算法实习一二面](https://zhuanlan.zhihu.com/p/1999175755272320529)
     - [面试专栏](https://www.zhihu.com/column/c_1992818937117820713)
+
+
+- [LLM面经汇总](https://zhuanlan.zhihu.com/p/2005965686216877524)
 
 - [项目的关键点就是要成体系](https://www.zhihu.com/question/10917018003/answer/1937488711781709357)
 
@@ -108,6 +114,22 @@
 
 #  Agent
 
+
+- [如何成为世界级 Agent 工程师|转自x](https://zhuanlan.zhihu.com/p/2012410313165779151)
+
+- [你不知道的 Agent：原理、架构与工程实践](https://x.com/HiTw93/article/2034627967926825175)
+
+- [LLM应用技术指北](https://www.zhihu.com/column/c_1732010005040119810)
+
+
+- [从梯度到Agent](https://www.zhihu.com/column/c_2005661920485712097) 面试用，从rl到agent应用 ，他有多个专栏，可以直接看[文章](https://www.zhihu.com/people/wang-yu-feng-22-50/posts)
+
+
+- [大模型agent](https://www.zhihu.com/column/c_2013968425089770602) 质量很高
+
+**专栏**
+- [AI智能化应用](https://www.zhihu.com/column/c_1378680688061952000)
+- [王几行XING](https://www.zhihu.com/people/brycewang1898)的专栏
 ## Agent的上下文管理
 
 
@@ -117,13 +139,19 @@
 
 - [笔记：多轮对话中的上下文压缩与记忆增强](https://zhuanlan.zhihu.com/p/1974529752774762715)
 
+## Agent 记忆机制 Memory
 
+
+- [awesome memory papers](https://github.com/Shichun-Liu/Agent-Memory-Paper-List)
+
+- [探索 AI Agent 的认知架构及记忆的实现机制，AI Agent 如何更新其记忆以适应环境变化？批量下载](https://www.zhihu.com/question/663077797)
+- [Evo-Memory：基于自进化记忆的LLM智能体Test-time学习基准评测]
 
 
 ## agent框架 八股
 
 - [**王几行**](https://www.zhihu.com/people/brycewang1898) 
-	- [Agent/LangGraph 面试八股文：核心难题20题](https://zhuanlan.zhihu.com/p/1914230995034564014)  ： 非常好的 文章，建议多看这个作者[王几行XING](https://www.zhihu.com/people/brycewang1898)的专栏
+	- [Agent/LangGraph 面试八股文：核心难题20题](https://zhuanlan.zhihu.com/p/1914230995034564014)  ： 非常好的 文章，
 
 
 ## agent的理解 和 实践 生产
@@ -221,7 +249,12 @@
 
 
 
-# 微调训练
+#  训练 
+
+
+- [以glm训练为例的全训练过程讲解 Agentic能力从哪里来？拆解基座大模型的训练过程
+](https://zhuanlan.zhihu.com/p/2015552122071037375)
+
 
 
 
@@ -256,9 +289,28 @@
 - [LLM Reasonable llm推理能力的提升](https://www.zhihu.com/column/c_1852087980463886337)
 
 
+- [用 RL 做 LLM 后训练：半年踩过的坑与心得](https://zhuanlan.zhihu.com/p/1986921621240447760)
+
+- [Seed：四大技巧助力RL炼丹
+](https://zhuanlan.zhihu.com/p/1930601703209665224)
+
+
+
+
+
+
+
 
 ## Agentic RL
 - [Agentic RL全流程技术分析与总结（两万字）](https://zhuanlan.zhihu.com/p/1985054130469888615)
+
+- [DeepResearch : 端到端的训练，怎么复现 Deep ReSearch（上） ：先从 Deep Search 做起
+](https://zhuanlan.zhihu.com/p/1892489650469323191)
+
+- [总结Agentic训练的最近几篇工作](http://zhuanlan.zhihu.com/p/2010761900250646173)
+
+- [关于Agent模型能力和Agentic RL训练的整理](https://zhuanlan.zhihu.com/p/2019366800190625461)
+
 
 # 实战经验 调参 训练
 
@@ -269,7 +321,9 @@
 
 
 
+## GRPO
 
+- [GRPO算法演进](https://zhuanlan.zhihu.com/p/2001404871753102054)
 
 
 
@@ -310,7 +364,6 @@
 
 - [从失败中学习，榨干经验包，实现性能飞跃 ——Google Agent研究](https://zhuanlan.zhihu.com/p/1961051351317485526)
 
-## Agent rl 相关
 
 
 ## Agent 新的范式
